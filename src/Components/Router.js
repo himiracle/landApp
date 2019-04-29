@@ -16,12 +16,12 @@ export default () => (
     <>
       <Header />
       <Switch>
-        <Route path="/" exact component={Home} />
-        <Route path="/tv" component={TV} />
-        <Route path="/search" component={Search} />
-        <Route path="/movie/:id" component={Detail} />
-        <Route path="/show/:id" component={Detail} />
-        <Redirect from="*" to="/" />
+        <Route path="https://himiracle.github.io/landApp/" exact component={Home} />
+        <Route path="https://himiracle.github.io/landApp/tv" component={TV} />
+        <Route path="https://himiracle.github.io/landApp/search" component={Search} />
+        <Route path="https://himiracle.github.io/landApp/movie/:id" component={Detail} />
+        <Route path="https://himiracle.github.io/landApp/show/:id" component={Detail} />
+        <Redirect from="*" to="https://himiracle.github.io/landApp/" />
       </Switch>
     </>
   </Router>
