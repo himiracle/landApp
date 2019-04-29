@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa55dbe0ed63526cbdc66f331170885d",
+    "revision": "299fcb501f329cf37fc2a0f4bc54c93b",
     "url": "/landapp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/landapp/static/js/2.11334be8.chunk.js"
   },
   {
-    "revision": "50d8ea2541a2e449990d",
-    "url": "/landapp/static/js/main.9562a675.chunk.js"
+    "revision": "57891cc65a59bf55ad30",
+    "url": "/landapp/static/js/main.797a32ed.chunk.js"
   },
   {
     "revision": "e049a328b42e908e823a",
