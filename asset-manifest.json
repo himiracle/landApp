@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/landapp/static/js/main.9562a675.chunk.js",
+    "main.js.map": "/landapp/static/js/main.9562a675.chunk.js.map",
+    "runtime~main.js": "/landapp/static/js/runtime~main.12a0d663.js",
+    "runtime~main.js.map": "/landapp/static/js/runtime~main.12a0d663.js.map",
+    "static/js/2.11334be8.chunk.js": "/landapp/static/js/2.11334be8.chunk.js",
+    "static/js/2.11334be8.chunk.js.map": "/landapp/static/js/2.11334be8.chunk.js.map",
+    "index.html": "/landapp/index.html",
+    "precache-manifest.566fa957929fdb8bca104434e6dc2c4b.js": "/landapp/precache-manifest.566fa957929fdb8bca104434e6dc2c4b.js",
+    "service-worker.js": "/landapp/service-worker.js"
+  }
+}
